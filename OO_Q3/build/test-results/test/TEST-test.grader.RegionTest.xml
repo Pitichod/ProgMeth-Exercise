@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.grader.RegionTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-01-10T15:29:51.452Z" hostname="NINEPLAYX_V6" time="0.072">
+  <properties/>
+  <testcase name="testGetAvailableQuests()" classname="test.grader.RegionTest" time="0.037"/>
+  <testcase name="testGetPlayerCount()" classname="test.grader.RegionTest" time="0.002"/>
+  <testcase name="testConstructorEmpty()" classname="test.grader.RegionTest" time="0.002"/>
+  <testcase name="testAddPlayerToRegion()" classname="test.grader.RegionTest" time="0.002"/>
+  <testcase name="testAddQuestToRegion()" classname="test.grader.RegionTest" time="0.002"/>
+  <testcase name="testSetNameEmpty()" classname="test.grader.RegionTest" time="0.002"/>
+  <testcase name="testGetRegionRank()" classname="test.grader.RegionTest" time="0.003"/>
+  <testcase name="testSetName()" classname="test.grader.RegionTest" time="0.002"/>
+  <testcase name="testConstructor()" classname="test.grader.RegionTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

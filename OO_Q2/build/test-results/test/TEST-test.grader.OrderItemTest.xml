@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.grader.OrderItemTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-01-10T12:24:36.940Z" hostname="NINEPLAYX_V6" time="0.021">
+  <properties/>
+  <testcase name="testIncreaseItemAmount()" classname="test.grader.OrderItemTest" time="0.002"/>
+  <testcase name="testGetItemAmount()" classname="test.grader.OrderItemTest" time="0.001"/>
+  <testcase name="testSetItemAmountNegative()" classname="test.grader.OrderItemTest" time="0.001"/>
+  <testcase name="testConstructorNegativeAmount()" classname="test.grader.OrderItemTest" time="0.001"/>
+  <testcase name="testGetItem()" classname="test.grader.OrderItemTest" time="0.001"/>
+  <testcase name="testSetItemAmount()" classname="test.grader.OrderItemTest" time="0.001"/>
+  <testcase name="testCalculateTotalPrice()" classname="test.grader.OrderItemTest" time="0.001"/>
+  <testcase name="testIncreaseItemAmountNegative()" classname="test.grader.OrderItemTest" time="0.001"/>
+  <testcase name="testConstructor()" classname="test.grader.OrderItemTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

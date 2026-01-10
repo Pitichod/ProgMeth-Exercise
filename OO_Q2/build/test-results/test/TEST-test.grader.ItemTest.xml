@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.grader.ItemTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-01-10T12:24:36.916Z" hostname="NINEPLAYX_V6" time="0.014">
+  <properties/>
+  <testcase name="testGetName()" classname="test.grader.ItemTest" time="0.002"/>
+  <testcase name="testSetPricePerPiece()" classname="test.grader.ItemTest" time="0.001"/>
+  <testcase name="testSetPricePerPieceIllegal()" classname="test.grader.ItemTest" time="0.001"/>
+  <testcase name="testConstructorIllegalPrice()" classname="test.grader.ItemTest" time="0.001"/>
+  <testcase name="testGetPricePerPiece()" classname="test.grader.ItemTest" time="0.001"/>
+  <testcase name="testConstructor()" classname="test.grader.ItemTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

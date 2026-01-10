@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.grader.TestCPTSMachine" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-01-10T12:55:42.427Z" hostname="NINEPLAYX_V6" time="0.089">
+  <properties/>
+  <testcase name="testIsStationExisted()" classname="test.grader.TestCPTSMachine" time="0.056"/>
+  <testcase name="testAddStation()" classname="test.grader.TestCPTSMachine" time="0.002"/>
+  <testcase name="testBuyTicketLegal()" classname="test.grader.TestCPTSMachine" time="0.017"/>
+  <testcase name="testBuyTicketIllegal()" classname="test.grader.TestCPTSMachine" time="0.004"/>
+  <system-out><![CDATA[Bought Student Ticket, from Siam to Thong Lor, for 144.0 Baht!
+Bought Adult Ticket, from Siam to Thong Lor, for 180.0 Baht!
+Bought Elderly Ticket, from Siam to Thong Lor, for 90.0 Baht!
+Bought Student Ticket, from Siam to Prom Phong, for 120.0 Baht!
+Bought Adult Ticket, from Siam to Prom Phong, for 150.0 Baht!
+Bought Elderly Ticket, from Siam to Prom Phong, for 75.0 Baht!
+This ticket cannot be bought.
+This ticket cannot be bought.
+This ticket cannot be bought.
+This ticket cannot be bought.
+This ticket cannot be bought.
+This ticket cannot be bought.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

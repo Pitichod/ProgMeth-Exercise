@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.student.ServerTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2026-01-30T18:32:16.248Z" hostname="NINEPLAYX_V6" time="0.044">
+  <properties/>
+  <testcase name="testAddUser()" classname="test.student.ServerTest" time="0.019"/>
+  <testcase name="testSetNameEmpty()" classname="test.student.ServerTest" time="0.002"/>
+  <testcase name="testConstructorBasicTemplate()" classname="test.student.ServerTest" time="0.001"/>
+  <testcase name="testAddChannelNotOwner()" classname="test.student.ServerTest" time="0.002"/>
+  <testcase name="testKickUser()" classname="test.student.ServerTest" time="0.001"/>
+  <testcase name="testKickUserNotOwner()" classname="test.student.ServerTest" time="0.002"/>
+  <testcase name="testKickUserNonExistingUserOrKickingOwner()" classname="test.student.ServerTest" time="0.002"/>
+  <testcase name="testConstructorEmptyServerName()" classname="test.student.ServerTest" time="0.0"/>
+  <testcase name="testSetName()" classname="test.student.ServerTest" time="0.001"/>
+  <testcase name="testConstructorGamingTemplate()" classname="test.student.ServerTest" time="0.001"/>
+  <testcase name="testAddChannelOwner()" classname="test.student.ServerTest" time="0.001"/>
+  <testcase name="testAddDuplicateUser()" classname="test.student.ServerTest" time="0.001"/>
+  <testcase name="testConstructorStudyTemplate()" classname="test.student.ServerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
